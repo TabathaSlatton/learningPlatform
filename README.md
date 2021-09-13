@@ -1,4 +1,4 @@
-# LearningPlatform
+# Learning Platform
 
 This is a project to help me practice with frontend skills.
 
@@ -11,3 +11,11 @@ I have a few goals with this project for the future.
 - I would like to have this project evolve technically over time.
 
 - I would like to eventually have a backend attached to this project as well. Currently, I am leaning towards C#.
+
+## Immediate Next Steps
+
+- Research best practices for Angular Project structure
+
+- Create MVP document to think about the basic requirements I'm going to want to have
+
+- Use Trello to create user stories for myself
